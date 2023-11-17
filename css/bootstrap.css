@@ -477,8 +477,15 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
+  
+}
+.img-fluid2 {
+  padding: 0.25rem;
+  max-width: 80%;
+  height: auto;
+  
 }
 
 .img-thumbnail {
@@ -4070,13 +4077,13 @@ input[type="button"].btn-block {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #000000;
   pointer-events: none;
   cursor: default;
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #000000;
 }
 
 .nav-tabs .nav-item {
@@ -4090,7 +4097,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color: #000000 #e9ecef #dee2e6;
 }
 
 .nav-tabs .nav-link.disabled {
@@ -4118,7 +4125,7 @@ input[type="button"].btn-block {
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #000000;
   background-color: #007bff;
 }
 
@@ -4525,7 +4532,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #fff;
+  color: #000000;
 }
 
 .navbar-dark .navbar-toggler {
@@ -4542,7 +4549,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-text a {
-  color: #fff;
+  color: #000000;
 }
 
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {

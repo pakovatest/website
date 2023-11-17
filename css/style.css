@@ -74,7 +74,7 @@ nav.navbar.navbar-expand-lg {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 20px;
-  color: #f7f6f7;
+  color: #000000;
   text-align: center;
 }
 
@@ -160,7 +160,7 @@ a:focus {
 .navbar-brand span {
   font-size: 22px;
   font-weight: 700;
-  color: #fefefe;
+  color: #000000;
 }
 
 .custom_nav-container {
@@ -201,12 +201,12 @@ a:focus {
 }
 
 .hero_detail-box {
-  color: #fefeff;
+  color: #000000;
 }
 
 .hero_detail-box h1 {
   font-size: 50px;
-  color: #fefeff;
+  color: #000000;
   font-weight: 600;
   width: 70%;
 }
